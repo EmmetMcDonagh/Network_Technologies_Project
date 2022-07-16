@@ -5,24 +5,13 @@
 
 ## CONTENTS OF THIS FILE
 
-
-
-* Introduction
+* Description of project design
 
 * Requirements
 
 * Installation
 
 * References
-
-
-
-
-
-
-
-
-
 
 
 ## INTRODUCTION
