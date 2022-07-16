@@ -27,6 +27,7 @@ This program requires to be opened from a Terminal.
 ## INSTRUCTIONS FOR RUNNING THE APPLICATION
 
 ChatClient.java/ChatServer.java Programme:
+
 •	Open up a new Terminal window or in Eclipse terminal console.
 
 •	Run Server (java ChatServer.java).
