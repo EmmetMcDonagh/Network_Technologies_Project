@@ -42,7 +42,7 @@ ChatClient.java/ChatServer.java Programme:
 
 •	To end Server Connection, Server enters ‘quit’ and the program exits (which can be done at any time).
 
-## REFERENCES:
+## REFERENCES
 1)	https://github.com/paulpjoby/java-socket-multi-user-chat-server
 2)	https://gyawaliamit.medium.com/multi-client-chat-server-using-sockets-and-threads-in-java-2d0b64cad4a7
 3)	https://www.geeksforgeeks.org/socket-programming-in-java/
